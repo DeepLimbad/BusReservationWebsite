@@ -1,0 +1,38 @@
+
+*nitiket*
+
+home
+book
+update
+
+
+*deep*
+
+login
+delete
+about us
+
+
+*priyank*
+
+piechart
+payment
+er diagram
+
+
+SEQUENCE:-
+intro** (d)
+er diagram (p)
+
+1. HOME (n)
+2. login (d)
+3. Book (n)
+4. payment (p)
+5. update (n)
+6. delete (d)
+7. aboutus (d)
+8. piechart (p)
+
+
+
+
